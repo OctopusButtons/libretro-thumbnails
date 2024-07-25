@@ -75,6 +75,18 @@ make index
 make
 ```
 
+## Image guidelines for contributors:
+In order for the thumbnail repository to contain "archival quality" snaps (in-game screenshots) for each game:
+  - Snaps should ideally represent characteristic art/sprites, environment, and/or action from the game.
+  - Contributors should think of what screenshot a museum curator would pick for a museum exhibit about the game.
+  - Contributors should think of what kind of picture the game's designers/artists would pick for the back of the game's box.
+
+### Examples:
+  - In a racing game: a good screenshot often will show the vehicle following the road.  Not crashed off the track with the camera aiming away from the upcoming road.
+  - In a fighting game: a good snap screenshot will show the character sprites and at least one animation key frame, not a situation when the characters are off-screen or invisible.
+  - In a scrolling shooter: some combination of clear player ship + clear background + enemies + some of the bullet style or explosions.
+  - In a 3rd person action game: a good snap thumbnail will include some balance between the character and the environmental setting/style.  A less ideal snap thumbnail might be mostly filled by a single wall texture with the camera directly facing a bland wall.
+  - 
 ## Credits
 
 The art provided has many different sources. Thank you to many of the contributors and sites who have made this possible...
